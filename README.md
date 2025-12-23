@@ -144,7 +144,6 @@ vlang/
 │   ├── interpreter.py    # Runtime executor
 │   └── token_spec.py     # Token definitions
 ├── hello.vlang           # Sample loop program
-├── if_else.vlang         # Sample conditional program
 ├── pyproject.toml        # Project metadata
 └── README.md             # This file
 ```
