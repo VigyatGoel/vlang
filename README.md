@@ -2,6 +2,8 @@
 
 vlang is a fun experimental programming language that blends Hindi and English syntax. Created as a hobby project to explore language design and implementation. Built with Python, it features a custom lexer, parser, and interpreter.
 
+**Why "vlang"?** Named after my name, Vigyat, which starts with 'V'.
+
 ## Features
 
 - **Bilingual Syntax**: Combines Hindi keywords with English-style programming constructs
