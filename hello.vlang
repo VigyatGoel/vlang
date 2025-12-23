@@ -1,0 +1,20 @@
+yaad rakh count = 1
+yaad rakh max = 4
+
+dikhao "Starting vlang execution..."
+
+jab tak count < max {
+    dikhao "Iteration number:"
+    dikhao count
+    yaad rakh count = count + 1
+}
+
+yaad rakh x = 10
+
+agar x > 5 {
+    dikhao "x is greater than 5"
+} varna {
+    dikhao "x is 5 or less"
+}
+
+dikhao "Done!"

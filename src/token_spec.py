@@ -1,0 +1,16 @@
+TOKEN_SPEC = [
+    ("JAB_TAK", r"jab tak"),
+    ("YAAD_RAKH", r"yaad rakh"),
+    ("DIKHAO", r"dikhao"),
+    ("AGAR", r"agar"),
+    ("VARNA", r"varna"),
+    ("NUMBER", r"\d+(\.\d+)?"),
+    ("ID", r"[a-z_]\w*"),
+    ("ASSIGN", r"="),
+    ("OP", r"[+\-*/><!]{1,2}"),
+    ("STRING", r'".*?"'),
+    ("LBRACE", r"\{"),
+    ("RBRACE", r"\}"),
+    ("SKIP", r"[ \t\n]+"),
+    ("MISMATCH", r"."),
+]
