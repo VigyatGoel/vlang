@@ -17,4 +17,9 @@ agar x > 5 {
     dikhao "x is 5 or less"
 }
 
+
+yaad rakh result = 10 + 5
+dikhao result
+
 dikhao "Done!"
+

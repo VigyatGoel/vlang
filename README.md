@@ -94,8 +94,8 @@ vlang supports standard arithmetic and comparison operators:
 - Comparison: `>`, `<`, `>=`, `<=`, `==`, `!=`
 
 ```vlang
-yaad rakh result = 10 + 5 * 2
-yaad rakh is_greater = result > 15
+yaad rakh result = 10 + 5
+dikhao result
 ```
 
 ## Usage
